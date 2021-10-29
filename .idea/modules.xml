@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Codechef.iml" filepath="$PROJECT_DIR$/Codechef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodechefContests.iml" filepath="$PROJECT_DIR$/CodechefContests.iml" />
     </modules>
   </component>
 </project>
